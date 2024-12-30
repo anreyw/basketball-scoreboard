@@ -48,7 +48,6 @@ button {
     background: #1B244A;
     border-radius: 3px;
     margin: 3px;
-    padding-top: 3px;
 }
 
 @media screen and (max-width: 650px) {
